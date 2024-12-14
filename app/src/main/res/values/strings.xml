@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- Liste des catégories pour le Spinner -->
+    <string-array name="categories">
+        <item>General</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Sports</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Entertainment</item>
+
+    </string-array>
+</resources>
